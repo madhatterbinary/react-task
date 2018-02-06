@@ -35,5 +35,8 @@ Should you need them, in the data directory there is a json data file containing
 3. What would you test about this component and why?
 4. Give an example of where you might choose to use internal state for a component.
 
+### How to submit your work
+Just make a branch off master, So that we can identify your branch easily, slugify your name - i.e. if your name is "John Smith", call your branch "john-smith". When you're happy with your answers/code, just push the branch back up and let us know. 
+
 Good luck!
 The Circus Street Team
