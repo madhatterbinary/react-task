@@ -69,7 +69,7 @@ export class JargonItem extends Component {
 
     render () {
 
-        let jargon = this.props.error ? <p>Jargons can't be loaded!</p> : <Spinner />;
+        this.props.error ? <p>Jargons can't be loaded!</p> : <Spinner />;
 
         return (
             <div>
